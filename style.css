@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(146, 14, 183);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+form{
+    border: 1px solid white;
+}
+ 
+button{
+    background-color: rgb(255, 255, 255);
+    width: 80px;
+    height: 30px;
+    border: 10px;
+    color: black;
+    font-weight: bolder;
+}
